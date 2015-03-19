@@ -5,7 +5,7 @@ Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
 _"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
 der oft seltsam klingenden Konstruktionen.
 
-Git auf deutsch schafft abhilfe!
+Git auf deutsch schafft Abhilfe!
 
 ## Forschläge
 
@@ -24,19 +24,20 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | rosinen herauspicken  |
 
-| Substantiv   | Aktueller Gebrauch | Vorschlag     |
-|--------------|--------------------|---------------|
-| git          | git                | schwachkopf   |
-| repository   | repo               | lagerstätte   |
-| branch       | branch             | zweig         |
-| commit       | commit             | übergabe      |
-| pull request | pull request       | ziehbegehren  |
-| stash        | stash              | versteck      |
-| tag          | tag                | markierung    |
+| Substantiv   | Aktueller Gebrauch | Vorschlag                      |
+|--------------|--------------------|--------------------------------|
+| git          | git                | Schwachkopf                    |
+| github       | github             | Umschlagplatz für Schwachköpfe |
+| repository   | repo               | Lagerstätte                    |
+| branch       | branch             | Zweig                          |
+| commit       | commit             | Übergabe                       |
+| pull request | pull request       | Ziehbegehren                   |
+| stash        | stash              | Versteck                       |
+| tag          | tag                | Markierung                     |
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und nach github drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Umschlagplatz [für Schwachköpfe] drücken?
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
 
